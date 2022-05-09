@@ -1,7 +1,7 @@
 #!/bin/bash
 #Purpose: Until Loop Example for Host Ping
 
-i=5
+i=3
 until [ $i -gt 15 ];
 do
 echo "number $i"
